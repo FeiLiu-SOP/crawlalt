@@ -357,6 +357,19 @@ tr:nth-child(even) td {
   margin-right: auto;
 }
 
+.cta-actions {
+  margin: 12px 0 4px;
+}
+
+.cta-secondary {
+  margin-top: 8px;
+  font-size: 0.9rem;
+}
+
+.cta-secondary a {
+  font-weight: 600;
+}
+
 .btn-primary,
 .btn-ghost {
   display: inline-block;
